@@ -1,4 +1,4 @@
-/* "Atari" paddles to USB
+/* "Atari" paddles to USB (Polling version)
  * Copyright (C) 2024 Francis-Olivier Gradel, B.Eng.
  *
  * Using V-USB code from OBJECTIVE DEVELOPMENT Software GmbH. http://www.obdev.at/products/vusb/

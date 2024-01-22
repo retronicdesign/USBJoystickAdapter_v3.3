@@ -14,8 +14,8 @@ Global
 		{9411246A-4405-41DE-B7B3-22C66D5F97EC}.Atari|AVR.ActiveCfg = Atari|AVR
 		{9411246A-4405-41DE-B7B3-22C66D5F97EC}.Atari|AVR.Build.0 = Atari|AVR
 		{9411246A-4405-41DE-B7B3-22C66D5F97EC}.Atari|AVR.Deploy.0 = Atari|AVR
-		{9411246A-4405-41DE-B7B3-22C66D5F97EC}.Commodore|AVR.ActiveCfg = Commodore|AVR
-		{9411246A-4405-41DE-B7B3-22C66D5F97EC}.Commodore|AVR.Build.0 = Commodore|AVR
+		{9411246A-4405-41DE-B7B3-22C66D5F97EC}.Commodore|AVR.ActiveCfg = C64|AVR
+		{9411246A-4405-41DE-B7B3-22C66D5F97EC}.Commodore|AVR.Build.0 = C64|AVR
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -31,9 +31,9 @@
 
 #define SETUPDELAY 50	// Time to reset the capacitor back to GND
 #ifdef Atari
-	#define DIVIDER 6.5		// Divider of the read value to match with 0-255 (Atari Paddles 1Mohm)
+	#define DIVIDER 6		// Divider of the read value to match with 0-255 (Atari Paddles 1Mohm)
 #else //Commodore
-	#define DIVIDER 13	// Divider of the read value to match with 0-255 (C64 Paddles 470Kohm)
+	#define DIVIDER 12	// Divider of the read value to match with 0-255 (C64 Paddles 470Kohm)
 #endif
 
 void mux(char);
